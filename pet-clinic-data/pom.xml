@@ -3,7 +3,7 @@
     <parent>
         <artifactId>sfg-pet-clinic</artifactId>
         <groupId>ar.springframework</groupId>
-        <version>0.0.2</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -42,9 +42,4 @@
             <optional>true</optional>
         </dependency>
     </dependencies>
-
-
-  <scm>
-    <tag>sfg-pet-clinic-0.0.2</tag>
-  </scm>
 </project>
