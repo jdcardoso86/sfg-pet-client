@@ -21,7 +21,4 @@ public class Person {
         this.lastName = lastName;
     }
 
-    public int generateRandom(){
-        return 1234;
-    }
 }
