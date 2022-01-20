@@ -20,4 +20,8 @@ public class Person {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
+
+    public int generateRandom(){
+        return 1234;
+    }
 }
