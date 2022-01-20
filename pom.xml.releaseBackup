@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>ar.springframework</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>sfg-pet-clinic</name>
 	<description>SFG PET CLINIC</description>
 	<properties>
@@ -58,7 +58,6 @@
 				<version>3.0.0-M5</version>
 				<configuration>
 					<goals>install</goals>
-					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
 			</plugin>
 		</plugins>
